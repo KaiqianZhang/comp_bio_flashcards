@@ -1,0 +1,13 @@
+---
+title: "Next generation sequencing"
+author: "Kaiqian Zhang"
+date: "4/3/2019"
+output: 
+  workflowr::wflow_html:
+    code_folding: hide
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+

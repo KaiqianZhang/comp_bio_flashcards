@@ -6,4 +6,6 @@ output:
     toc: false
 ---
 
-Welcome to my research website.
+Welcome to Kaiqian's comp-bio-flashcards home.
+
+* Please click on [Next generation sequencing](NGS.html) to learn. 
